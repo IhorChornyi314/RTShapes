@@ -1,0 +1,3 @@
+DRONE_RADIUS = 100
+
+

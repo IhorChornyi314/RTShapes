@@ -1,0 +1,7 @@
+{
+  "E_K32_D": {"action": "debug_spawn"},
+  "E_K9_D": {"action": "test_performance"},
+  "E_M1_D": {"action": "start_select"},
+  "E_M1_U": {"action": "stop_select"},
+  "S_M1": {"action": "select", "start_cd": 0, "continue_cd": 0}
+}
